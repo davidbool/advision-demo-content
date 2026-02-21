@@ -1,10 +1,10 @@
 {
-  "version": 1,\
-  "items": [\
-    \{ "file": "img1.jpg", "url": "https://davidbool.github.io/advision-demo-content/img1.jpg", "durationMs": 3000 \},\
-    \{ "file": "img2.jpg", "url": "https://davidbool.github.io/advision-demo-content/img2.jpg", "durationMs": 5000 \},\
-    \{ "file": "img3.jpg", "url": "https://davidbool.github.io/advision-demo-content/img3.jpg", "durationMs": 7000 \},\
-    \{ "file": "img4.jpg", "url": "https://davidbool.github.io/advision-demo-content/img4.jpg", "durationMs": 5000 \},\
-    \{ "file": "img5.jpg", "url": "https://davidbool.github.io/advision-demo-content/img5.jpg", "durationMs": 3000 \}\
-  ]\
+  "version": 1,
+  "items": [
+    { "file": "img1.jpg", "url": "https://davidbool.github.io/advision-demo-content/img1.jpg", "durationMs": 3000 },
+    { "file": "img2.jpg", "url": "https://davidbool.github.io/advision-demo-content/img2.jpg", "durationMs": 5000 },
+    { "file": "img3.jpg", "url": "https://davidbool.github.io/advision-demo-content/img3.jpg", "durationMs": 7000 },
+    { "file": "img4.jpg", "url": "https://davidbool.github.io/advision-demo-content/img4.jpg", "durationMs": 5000 },
+    { "file": "img5.jpg", "url": "https://davidbool.github.io/advision-demo-content/img5.jpg", "durationMs": 3000 }
+  ]
 \}}
